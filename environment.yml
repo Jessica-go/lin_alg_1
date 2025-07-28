@@ -1,0 +1,13 @@
+name: lin_alg_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - pip
