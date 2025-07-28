@@ -1,6 +1,17 @@
 # Workshop: Linear Algebra for Data Programmers
 
-This is the first workshop in the **Math & Coding** series, designed for programmers and analysts with basic to intermediate Python skills. In this session, we’ll explore how to better understand our code through the lens of applied linear algebra.
+This is the first workshop in the **Math & Coding** series, designed for programmers and analysts with basic to intermediate Python skills. We explore key mathematical ideas such as vectors, matrices, determinants, eigenvalues, and eigenvectors — not just in theory, but through a **real-world application**: **Principal Component Analysis (PCA)**, a widely used method in Data Science and Machine Learning.
+
+### 🔍 Why PCA?
+
+PCA serves as a hands-on example to:
+- Understand how linear algebra operates inside real code
+- Improve our ability to read and interpret PCA outputs
+- Connect abstract math to practical machine learning workflows
+
+The goal is not only to learn linear algebra — but to **understand the mathematics behind the tools** we use in data analysis.
+
+No prior knowledge of advanced math is required. Just curiosity, Python, and a laptop 😉
 
 ## 🧪 Run it online
 
