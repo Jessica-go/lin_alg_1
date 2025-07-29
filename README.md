@@ -17,7 +17,17 @@ No prior knowledge of advanced math is required. Just curiosity, Python, and a l
 
 Click below to launch the notebooks in a live Jupyter environment using Binder:
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-gonzalez/lin_alg_1/HEAD)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-gonzalez/lin_alg_1/HEAD?filepath=01_intro_lin_alg_part1.ipynb)
+
+You can open all notebooks interactively in Binder.  
+Start with the first notebook and navigate to the others using the Jupyter file browser on the left.
+
+📂 Available notebooks:
+- `01_intro_lin_alg_part1.ipynb`
+- `02data_types.ipynb`
+- `03_lin_alg_part2.ipynb`
+- `04_regrescion_pca.ipynb`
+
 
 ## 📦 Environment requirements
 
