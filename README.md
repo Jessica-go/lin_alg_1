@@ -21,8 +21,7 @@ You have two options to run the notebooks from this workshop:
 
 No installation needed — just click the button below and start working directly in your browser.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-go/lin_alg_1/HEAD?filepath=01_intro_lin_alg_part1.ipynb)
-
+https://mybinder.org/v2/gh/Jessica-go/lin_alg_1/main?urlpath=%2Fdoc%2Ftree%2F01_intro_lin_alg_part1.ipynb
 
 > You can open and run all notebooks using the Jupyter file browser on the left.
 
