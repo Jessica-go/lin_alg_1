@@ -13,21 +13,42 @@ The goal is not only to learn linear algebra — but to **understand the mathema
 
 No prior knowledge of advanced math is required. Just curiosity, Python, and a laptop 😉
 
-## 🧪 Run it online
+## 🔧 How to Run This Project
 
-Click below to launch the notebooks in a live Jupyter environment using Binder:
+You have two options to run the notebooks from this workshop:
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-gon/lin_alg_1/HEAD?filepath=01_intro_lin_alg_part1.ipynb)
+### ▶️ Option 1: Run online with Binder (Recommended)
 
-You can open all notebooks interactively in Binder.  
-Start with the first notebook and navigate to the others using the Jupyter file browser on the left.
+No installation needed — just click the button below and start working directly in your browser.
 
-📂 Available notebooks:
-- `01_intro_lin_alg_part1.ipynb`
-- `02data_types.ipynb`
-- `03_lin_alg_part2.ipynb`
-- `04_regrescion_pca.ipynb`
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessica-go/lin_alg_1/HEAD?filepath=01_intro_lin_alg_part1.ipynb)
 
+
+> You can open and run all notebooks using the Jupyter file browser on the left.
+
+---
+
+### 🖥️ Option 2: Run locally on your computer
+
+#### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/jessica-gonzalez/lin_alg_1.git
+cd lin_alg_1
+```
+#### Step 2: Install required packages
+pip install numpy matplotlib scikit-learn pandas
+
+If you are using conda: 
+```bash 
+conda create -n lin_env python=3.10
+conda activate lin_env
+conda install numpy matplotlib scikit-learn pandas
+```
+#### Step 3: Launch Jupyter Notebook
+```bash 
+jupyter notebook
+```
 
 ## 📦 Environment requirements
 
